@@ -1,13 +1,13 @@
 # Desafio Java Itau
 
-## Comecando
+## Começando
 
 Para executar essa aplicação você irá precisar ter instalado em sua maquina:
 
 - java igual ou superior a versão 11.0.1
 - maven igual ou superior a versão 3.8.4
 
-## Construcao
+## Construção
 
 Para iniciar a aplicação basta acessar seu diretório raiz e digitar os seguintes comando:
 
